@@ -1,0 +1,16 @@
+body{
+ background-color:gray;
+
+}
+h1{ 
+    text-align: center;  
+    background-color: rgb(12, 1, 1);
+    color: white;
+    font-style: italic;
+}
+p{
+    text-align: center;  
+    color: white;
+    font-style: italic;
+
+}
